@@ -1,0 +1,33 @@
+.error {
+    border: 2px solid red;
+}
+
+#cont {
+    background-color: rgb(102, 153, 204);
+    width: 60rem;
+}
+
+#logo {
+    max-width: 960px;
+}
+
+body {
+    background-color: #b76e79;
+}
+
+header {
+    background-color: rgb(102, 0, 255);
+    height: 80px;
+    font-size: 35pt;
+    font-weight: bold;
+    text-align: left;
+}
+
+.log {
+    float: left;
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+}
